@@ -1,0 +1,77 @@
+/* Start of script */
+/* Default phrase tag CSS */
+/* Contains the default CSS for the default 6 HTML5 phrase tags */
+/* Tag list:
+1 | kbd (keyboard input)
+2 | em (emphasized text) (not to be confused with the pixel measurement metric (1em = 16px)
+3 | strong (strong text)
+4 | code (computer code/script)
+5 | var (variable (text))
+6 | samp (sample output)
+*/
+/* Start of tag list */
+/* KBD (Keyboard input) */
+kbd {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+ <kbd>Keyboard input</kbd> 
+---
+*/
+/* EM (Emphasized text) */
+em {
+	font-style: italic;
+}
+/* HTML Sample:
+---
+<em>Emphasized text</em>
+---
+*/
+/* STRONG (ttrong text) */
+strong {
+	font-weight: bold;
+}
+/* HTML Sample:
+---
+<em>Emphasized text</em>
+---
+*/
+/* CODE (Computer code/script) */
+code {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+ <code>A piece of computer code</code> 
+---
+*/
+/* VAR (Variable (text)) */
+var {
+	font-style: italic;
+}
+/* HTML Sample:
+---
+<var>Variable</var>
+---
+*/
+/* SAMP (Sample output) */
+samp {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+<samp>Sample output from a computer program</samp>
+---
+*/
+/* End of tag list */
+/* File version history
+V1: Created January 1st 2020
+*/
+/* File info:
+Size: 01,.366 bytes (01,.366 Kilobytes)
+Line count: 077
+Language: CSS3 (Cascade Style Sheets)
+Line indenting: UNIX(LF)
+Encoding: UTF-8 (With no UTF-8 characters)
+/* End of script */
