@@ -1,0 +1,205 @@
+/* Start of stylesheet */
+/* ABOUT
+This stylesheet is a reference to the common 140 HTML colors. This applies it to a text section of a master HTML test reference
+*/
+/* Colors 1-10 */
+color001 { /* Color 1 */
+  color: AliceBlue;
+  font-size: 60px;
+}
+color002 { /* Color 2 */
+  color: AntiqueWhite;
+  font-size: 60px;
+}
+color003 { /* Color 3 */
+  color: Aqua;
+  font-size: 60px;
+}
+color004 { /* Color 4 */
+  color: Aquamarine;
+  font-size: 60px;
+}
+color005 { /* Color 5 */
+  color: Azure;
+  font-size: 60px;
+}
+color006 { /* Color 6 */
+  color: Beige;
+  font-size: 60px;
+}
+color007 { /* Color 7 */
+  color: Bisque;
+  font-size: 60px;
+}
+color008 { /* Color 8 */
+  color: Black;
+  font-size: 60px;
+}
+color009 { /* Color 9 */
+  color: BlanchedAlmond;
+  font-size: 60px;
+}
+color010 { /* Color 10 */
+  color: Blue;
+  font-size: 60px;
+}
+/* ===========
+Colors 11-20 | 
+============*/
+color011 { /* Color 11 */
+  color: BlueViolet;
+  font-size: 60px;
+}
+color012 { /* Color 12 */
+  color: Brown;
+  font-size: 60px;
+}
+color013 { /* Color 13 */
+  color: BurlyWood;
+  font-size: 60px;
+}
+color014 { /* Color 14 */
+  color: CadetBlue;
+  font-size: 60px;
+}
+color015 { /* Color 15 */
+  color: Chartreuse;
+  font-size: 60px;
+}
+color016 { /* Color 16 */
+  color: Chocolate;
+  font-size: 60px;
+}
+color017 { /* Color 17 */
+  color: Coral;
+  font-size: 60px;
+}
+color018 { /* Color 18 */
+  color: CornflowerBlue;
+  font-size: 60px;
+}
+color019 { /* Color 19 */
+  color: Cornsilk;
+  font-size: 60px;
+}
+color020 { /* Color 20 */
+  color: Crimson;
+  font-size: 60px;
+}
+/* ===========
+Colors 21-30 | 
+============*/
+color021 { /* Color 21 */
+  color: Cyan;
+  font-size: 60px;
+}
+color022 { /* Color 22 */
+  color: DarkBlue;
+  font-size: 60px;
+}
+color023 { /* Color 23 */
+  color: DarkCyan;
+  font-size: 60px;
+}
+color024 { /* Color 24 */
+  color: DarkGoldenRod;
+  font-size: 60px;
+}
+color025 { /* Color 25 */
+  color: DarkGrey; /* also works as DarkGray */
+  font-size: 60px;
+}
+color026 { /* Color 26 */
+  color: DarkGreen;
+  font-size: 60px;
+}
+color027 { /* Color 27 */
+  color: DarkKhaki;
+  font-size: 60px;
+}
+color028 { /* Color 28 */
+  color: DarkMagenta;
+  font-size: 60px;
+}
+color029 { /* Color 29 */
+  color: DarkOliveGreen;
+  font-size: 60px;
+}
+color030 { /* Color 30 */
+  color: DarkOrange;
+  font-size: 60px;
+}
+/* ===========
+Colors 31-40 | 
+============*/
+color031 { /* Color 31 */
+  color: DarkOrchid;
+  font-size: 60px;
+}
+color032 { /* Color 32 */
+  color: DarkRed;
+  font-size: 60px;
+}
+color033 { /* Color 32 */
+  color: DarkSalmon;
+  font-size: 60px;
+}
+color034 { /* Color 34 */
+  color: DarkSeaGreen;
+  font-size: 60px;
+}
+color035 { /* Color 35 */
+  color: DarkSlateBlue;
+  font-size: 60px;
+}
+color036 { /* Color 36 */
+  color: DarkSlateGrey; /* Also works as DarkSlateGray */
+  font-size: 60px;
+}
+color037 { /* Color 37 */
+  color: DarkTurquoise;
+  font-size: 60px;
+}
+color038 { /* Color 38 */
+  color: DarkViolet;
+  font-size: 60px;
+}
+color039 { /* Color 39 */
+  color: DeepPink;
+  font-size: 60px;
+}
+color040 { /* Color 40 */
+  color: DeepSkyBlue;
+  font-size: 60px;
+}
+/* ===========
+Colors 41-50 | 
+============*/
+/* ===========
+Colors 51-60 | 
+============*/
+/* ===========
+Colors 61-70 | 
+============*/
+/* ===========
+Colors 71-80 | 
+============*/
+/* ===========
+Colors 81-90 | 
+============*/
+/* ===========
+Colors 91-100 | 
+============*/
+/* ===========
+Colors 101-110 | 
+============*/
+/* ===========
+Colors 111-120 | 
+============*/
+/* ===========
+Colors 121-130 | 
+============*/
+/* ===========
+Colors 131-140 | 
+============*/
+/* End of stylesheet */
