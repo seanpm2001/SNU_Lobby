@@ -1,0 +1,455 @@
+SNU Translation system file
+
+ENGLISH_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+--------------------------------------------------------------------
+
+ENGLISH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+--------------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ARABIC_TO_ENGLISH_TRANSLATOR
+
+A section
+ا = A
+سمعي = Audio
+الحساب = Account
+عربى = Arabic
+
+B section
+منع = Block
+المتصفح = Browser
+
+C section
+أغلق = Close
+صينى = Chinese
+الاتصال = Connect
+تعليق = Comment
+
+D section
+تحميل = Download
+حذف = Delete
+
+E section
+الإنجليزية = English
+تنفيذ = Executable
+أعدم = Executed
+نفذ - اعدم = Execute
+تنفيذ = Executing
+
+F section
+صديق = Friend
+لم يتم العثور على الملف = File not found
+الفرنسية = French
+حر = Free
+ملف = File
+ملفات = Files
+
+G section
+ألمانية = German
+
+H section
+التاريخ = History
+
+I section
+في = In
+صورة = Image
+الإنترنت = Internet
+
+J section
+مجرد = Just
+
+K section
+المعرفه = Knowledge
+
+L section
+سجل = Log
+لغة = Language
+غادر = Leave
+عقدة = Loop
+
+M section
+موزيلا فايرفوكس = Mozilla Firefox
+
+N section
+ليس آمن للعمل = Not Safe For Work
+
+O section
+خارج = Out
+
+P section
+صورة = Picture
+
+Q section
+جودة = Quality
+
+R section
+تحديث = Refresh
+الروسية = Russian
+إعادة النظر = Review
+أبلغ عن = Report
+طلب = Request
+
+S section
+إشارة = Sign
+الأسبانية = Spanish
+معلق = Suspended
+
+T section
+تقليدي = Traditional
+
+U section
+رفع = Upload
+اسم المستخدم = Username
+
+V section
+افتراضية = Virtual
+فيديو = Video
+رأي = View
+الآراء = Views
+
+W section
+أهلا بك = Welcome
+كتابة = Write
+
+X section
+
+Y section
+نعم فعلا = Yes
+
+Z section
+مضغوط = Zipped
+الرمز البريدي = Zip
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHINESE(TRADITIONAL)_TO_ENGLISH_TRANSLATOR
+
+A section
+音頻 = Audio
+阿拉伯 = Arabic
+一個 = A
+帳戶 = Account
+
+B section
+塊 = Block
+瀏覽器 = Browser
+
+C section
+關 = Close
+評論 = Comment
+中文 = Chinese
+連 = Connect
+
+D section
+下載 = Download
+刪除 = Delete
+
+E section
+英語 = English
+可執行文件 = Executable
+執行 = Executed
+執行 = Execute
+執行 = Executing
+
+F section
+文件未找到 = File not found
+朋友 = Friend
+法國 = French
+自由 = Free
+文件 = File
+檔 = Files
+
+G section
+德語 = German
+
+H section
+歷史 = History
+
+I section
+在 = In
+圖片 = Image
+互聯網 = Internet
+
+J section
+只是 = Just
+
+K section
+知識 = Knowledge
+
+L section
+日誌 = Log
+語言 = Language
+離開 = Leave
+環 = Loop
+
+M section
+火狐瀏覽器 = Mozilla Firefox
+
+N section
+不安全的工作 = Not Safe For Work
+
+O section
+退房 = Out
+
+P section
+圖片 = Picture
+
+Q section
+質量 = Quality
+
+R section
+刷新 = Refresh
+報告 = Report
+俄語 = Russian
+評論 = Review
+請求 = Request
+
+S section
+標誌 = Sign
+西班牙語 = Spanish
+暫停 = Suspended
+
+T section
+傳統 = Traditional
+
+U section
+用戶名 = Username
+上傳 = Upload
+
+V section
+虛擬 = Virtual
+視頻 = Video
+視圖 = View
+查看 = Views
+
+W section
+寫 = Write
+歡迎 = Welcome
+
+X section
+
+Y section
+是 = Yes
+
+Z section
+拉鍊 = Zipped
+壓縮 = Zip
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+RUSSIAN_TO_ENGLISH_TRANSLATOR
+
+A section
+учетная запись = Account
+= a
+Около = About
+арабский = Arabic
+аудио = Audio
+
+B section
+блок = Block
+браузер = Browser
+
+C section
+близко = Close
+китайский язык = Chinese
+соединять = Connect
+Комментарий = Comment
+
+D section
+Скачать = Download
+удалять = Delete
+
+E section
+английский = English
+исполнимый = Executable
+выполненный = Executed
+казнить = Execute
+проведение = Executing
+
+F section
+Файл не найден = File not found
+друг = Friend
+Французский = French
+Свободно = Free
+файл = File
+файлы = Files
+
+G section
+Немецкий = German
+
+H section
+история = History
+
+
+I section
+Образ = Image
+интернет = Internet
+В = In
+
+J section
+Просто = Just
+
+K section
+Знания = Knowledge
+
+L section
+язык = Language
+Журнал = Log
+Покидать = Leave
+петля = Loop
+
+M section
+Mozilla Firefox = Mozilla Firefox
+
+N section
+Небезопасно для работы = Not Safe For Work
+
+O section
+Из = Out
+
+P section
+Картина = Picture
+
+Q section
+Качественный = Quality
+
+R section
+обновление = Refresh
+русский = Russian
+Обзор = Review
+отчет = Report
+Запрос = Request
+
+S section
+Знак = Sign
+испанский = Spanish
+подвешенный = Suspended
+
+T section
+традиционный = Traditional
+
+U section
+имя пользователя = Username
+Загрузить = Upload
+
+V section
+виртуальный = Virtual
+видео = Video
+Посмотреть = View
+Просмотры = Views
+
+W section
+желанный = Welcome
+Написать = Write
+
+X section
+
+Y section
+да = Yes
+
+Z section
+Сжатые = Zipped
+застежка-молния = Zip
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Google translate was used for build 1, 2, and coming soon
+Check for accuracy please

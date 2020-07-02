@@ -1,0 +1,226 @@
+SNU Translation system file
+
+ENGLISH_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_GERMAN_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_ENGLISH_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_SPANISH_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_FRENCH_TRANSLATOR
+
+Coming soon
+
+--------------------------------------------------------------------
+
+ENGLISH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+ENGLISH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+SPANISH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+FRENCH_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_ARABIC_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_CHINESE(SIMPLIFIED)_TRANSLATOR
+
+Coming soon
+
+GERMAN_TO_RUSSIAN_TRANSLATOR
+
+Coming soon
+
+--------------------------------------------------------------------
+
+ARABIC_TO_ENGLISH_TRANSLATOR
+
+أهلا بك = Welcome
+تحميل = Download
+أغلق = Close
+موزيلا فايرفوكس = Mozilla Firefox
+لم يتم العثور على الملف = File not found
+سجل = Log
+إشارة = Sign
+في = In
+خارج = Out
+اسم المستخدم = Username
+صديق = Friend
+تحديث = Refresh
+حذف = Delete
+رفع = Upload
+افتراضية = Virtual
+فيديو = Video
+صورة = Image
+سمعي = Audio
+لغة = Language
+الإنجليزية = English
+الأسبانية = Spanish
+الفرنسية = French
+ألمانية = German
+عربى = Arabic
+الروسية = Russian
+صينى = Chinese
+تقليدي = Traditional
+الإنترنت = Internet
+الاتصال = Connect
+معلق = Suspended
+الحساب = Account
+تعليق = Comment
+إعادة النظر = Review
+ا = A
+كتابة = Write
+التاريخ = History
+أبلغ عن = Report
+
+CHINESE(TRADITIONAL)_TO_ENGLISH_TRANSLATOR
+
+歡迎 = Welcome
+下載 = Download
+關 = Close
+火狐瀏覽器 = Mozilla Firefox
+文件未找到 = File not found
+日誌 = Log
+標誌 = Sign
+在 = In
+退房 = Out
+用戶名 = Username
+朋友 = Friend
+刷新 = Refresh
+刪除 = Delete
+上傳 = Upload
+虛擬 = Virtual
+視頻 = Video
+圖片 = Image
+音頻 = Audio
+語言 = Language
+英語 = English
+西班牙語 = Spanish
+法國 = French
+德語 = German
+阿拉伯 = Arabic
+俄語 = Russian
+中文 = Chinese
+傳統 = Traditional
+互聯網 = Internet
+連 = Connect
+暫停 = Suspended
+帳戶 = Account
+評論 = Comment
+評論 = Review
+一個 = A
+寫 = Write
+歷史 = History
+報告 = Report
+
+RUSSIAN_TO_ENGLISH_TRANSLATOR
+
+желанный = Welcome
+Скачать = Download
+близко = Close
+Mozilla Firefox = Mozilla Firefox
+Файл не найден = File not found
+Журнал = Log
+Знак = Sign
+В = In
+Из = Out
+имя пользователя = Username
+друг = Friend
+обновление = Refresh
+удалять = Delete
+Загрузить = Upload
+виртуальный = Virtual
+видео = Video
+Образ = Image
+аудио = Audio
+язык = Language
+английский = English
+испанский = Spanish
+Французский = French
+Немецкий = German
+арабский = Arabic
+русский = Russian
+китайский язык = Chinese
+традиционный = Traditional
+интернет = Internet
+соединять = Connect
+подвешенный = Suspended
+учетная запись = Account
+Комментарий = Comment
+Обзор = Review
+= a
+Написать = Write
+история = History
+отчет = Report
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Google translate was used for build 1, and coming soon
+Check for accuracy please
