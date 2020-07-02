@@ -1,0 +1,10 @@
+
+				div.supporter-ad-text a, div.supporter-ad-text a:visited {
+					font-weight: bold;
+					color: #a9390c;
+				}
+				div.supporter-ad-text h3, div.supporter-ad-text p {
+					margin: 8px 0px;
+					padding: 0px;
+				}
+			

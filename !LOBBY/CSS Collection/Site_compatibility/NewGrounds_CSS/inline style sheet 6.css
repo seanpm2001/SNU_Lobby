@@ -1,0 +1,66 @@
+
+			
+		div.pod-head, 
+		header.pod-head, 
+		div.pod-fakehead, 
+		header.pod-fakehead, 
+		div.podtop,
+		*.header-gradient:not(.no-replace)
+		{
+						background: #302836;
+			background: -moz-linear-gradient(top, #483955 0%, #332b3a 48%, #2d2633 53%, #1f1722 100%);
+			background: -webkit-linear-gradient(top, #483955 0%, #332b3a 48%, #2d2633 53%, #1f1722 100%);
+			background: linear-gradient(to bottom, #483955 0%, #332b3a 48%, #2d2633 53%, #1f1722 100%);
+		}
+		
+		div.ui-datepicker .ui-datepicker-header {
+						background: #302836;
+			background: -moz-linear-gradient(top, #332b3a 0%, #1f1722 100%);
+			background: -webkit-linear-gradient(top, #332b3a 0%, #1f1722 100%);
+			background: linear-gradient(to bottom, #332b3a 0%, #1f1722 100%);
+		}
+		
+		.ql-toolbar {
+			background-color: #2d2633!important;
+		}
+		
+		.ql-editor {
+			background-color: #332b3a!important;
+		}
+		
+		div.mobile-menu-background,
+		div.mobile-header-bar,
+		div.notification-bar,
+		div.header-dropdown,
+		#header-user-menu .menu-inner,
+		*.custom-header-color:not(.no-replace)
+		{
+			background-color: #302836;
+		}
+		
+		div.notification-bar .search button
+		{
+			color: #1f1722;
+		}
+
+		#topsearch_text::-webkit-input-placeholder
+		{
+			color: #1f1722;
+		}
+
+		#topsearch_text::-moz-placeholder
+		{
+			color: #1f1722;
+		}
+
+		#topsearch_text:-moz-placeholder
+		{
+			color: #1f1722;
+		}
+
+		#topsearch_text:-ms-input-placeholder
+		{
+			color: #1f1722;
+		}
+		
+	
